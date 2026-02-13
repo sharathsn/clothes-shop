@@ -23,6 +23,7 @@ const products = [
   { id: 21, name: 'Rubber Duck', category: 'Toys', price: 5.99, emoji: '🦆' },
   { id: 22, name: 'Plush Dinosaur', category: 'Toys', price: 18.99, emoji: '🦕' },
   { id: 23, name: 'Sunflower Bouquet', category: 'Flowers', price: 14.99, emoji: '🌻' },
+  { id: 24, name: 'Rose Arrangement', category: 'Flowers', price: 24.99, emoji: '🌹' },
 ];
 
 let cart = [];
