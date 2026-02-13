@@ -21,6 +21,7 @@ const products = [
   { id: 19, name: 'Puzzle Set', category: 'Toys', price: 17.99, emoji: '🧩' },
   { id: 20, name: 'Action Figure', category: 'Toys', price: 21.99, emoji: '🦸' },
   { id: 21, name: 'Rubber Duck', category: 'Toys', price: 5.99, emoji: '🦆' },
+  { id: 22, name: 'Plush Dinosaur', category: 'Toys', price: 18.99, emoji: '🦕' },
 ];
 
 let cart = [];
