@@ -17,6 +17,7 @@ const products = [
   { id: 15, name: 'Remote Control Car', category: 'Toys', price: 44.99, emoji: '🚗' },
   { id: 16, name: 'Board Game', category: 'Toys', price: 24.99, emoji: '🎲' },
   { id: 17, name: 'Stuffed Bunny', category: 'Toys', price: 14.99, emoji: '🐰' },
+  { id: 18, name: 'Toy Car', category: 'Toys', price: 12.99, emoji: '🚙' },
 ];
 
 let cart = [];
