@@ -32,6 +32,7 @@ const products = [
 
 let cart = [];
 const CART_KEY = 'threads-cart';
+const sha = [];
 
 // DOM
 const productsEl = document.getElementById('products');
