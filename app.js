@@ -27,6 +27,7 @@ const products = [
   { id: 25, name: 'Tulip Bundle', category: 'Flowers', price: 19.99, emoji: '🌷' },
   { id: 26, name: 'Plush Panda', category: 'Animals', price: 22.99, emoji: '🐼' },
   { id: 27, name: 'Stuffed Elephant', category: 'Animals', price: 25.99, emoji: '🐘' },
+  { id: 28, name: 'Cuddly Lion', category: 'Animals', price: 23.99, emoji: '🦁' },
 ];
 
 let cart = [];
