@@ -25,6 +25,7 @@ const products = [
   { id: 23, name: 'Sunflower Bouquet', category: 'Flowers', price: 14.99, emoji: '🌻' },
   { id: 24, name: 'Rose Arrangement', category: 'Flowers', price: 24.99, emoji: '🌹' },
   { id: 25, name: 'Tulip Bundle', category: 'Flowers', price: 19.99, emoji: '🌷' },
+  { id: 26, name: 'Plush Panda', category: 'Animals', price: 22.99, emoji: '🐼' },
 ];
 
 let cart = [];
