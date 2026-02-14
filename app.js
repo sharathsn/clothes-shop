@@ -25,10 +25,14 @@ const products = [
   { id: 23, name: 'Sunflower Bouquet', category: 'Flowers', price: 14.99, emoji: '🌻' },
   { id: 24, name: 'Rose Arrangement', category: 'Flowers', price: 24.99, emoji: '🌹' },
   { id: 25, name: 'Tulip Bundle', category: 'Flowers', price: 19.99, emoji: '🌷' },
+  { id: 26, name: 'Plush Panda', category: 'Animals', price: 22.99, emoji: '🐼' },
+  { id: 27, name: 'Stuffed Elephant', category: 'Animals', price: 25.99, emoji: '🐘' },
+  { id: 28, name: 'Cuddly Lion', category: 'Animals', price: 23.99, emoji: '🦁' },
 ];
 
 let cart = [];
 const CART_KEY = 'threads-cart';
+const sha = [];
 
 // DOM
 const productsEl = document.getElementById('products');
